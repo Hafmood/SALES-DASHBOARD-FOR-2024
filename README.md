@@ -36,3 +36,7 @@ Technology yields the highest profit, followed by Office Supplies.
 Furniture performs the worst in profitability.
 
 Businesses may consider repositioning or revising product mix, especially for low-performing categories.
+
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/163057d9-93a1-44d1-917e-fdd2226ab0ec" />
+
+
