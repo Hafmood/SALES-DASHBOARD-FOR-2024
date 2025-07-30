@@ -1,6 +1,7 @@
 # SALES-DASHBOARD-FOR-2024
 This dashboard offers a comprehensive overview of the sales performance in 2024, focusing on key dimensions such as city-wise sales, customer insights, regional contributions, product category profitability, and order quantities. Designed using Power BI, it consolidates multiple datasets into visualizations to support strategic business decisions and sales optimization.
-Visual Elements Breakdown
+
+#**Visual Elements Breakdown**
 🔹 1.** Sales by City (Top-Left)**
 New York City leads in total sales, followed by Los Angeles and Seattle.
 
